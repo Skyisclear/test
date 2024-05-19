@@ -4,4 +4,8 @@ eee
 ffffffffffff
 coupon!!
 making changes
+<<<<<<< HEAD
 no coffee for me!! WINEEEEEEE!!
+=======
+COFFFFFEEEEEEEEEEEEE
+>>>>>>> coffee
